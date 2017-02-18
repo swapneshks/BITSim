@@ -1,0 +1,15 @@
+Choco Lava Cake
+40.0
+50
+Dutch Pastry
+45.0
+30
+Fountain Pepsi
+10.0
+57
+Paneer Puff
+25.0
+32
+Chicken Pizza
+35.0
+24

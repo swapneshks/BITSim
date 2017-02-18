@@ -1,0 +1,15 @@
+Aloo Paratha
+30.0
+40
+Chinese Samosa
+10.0
+30
+Egg Roll
+35.0
+30
+Frappe
+30.0
+50
+Iced Tea
+25.0
+40

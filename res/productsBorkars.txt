@@ -1,0 +1,15 @@
+AirWick Freshner
+170.0
+20
+HeadNShoulders Shampoo
+160.0
+30
+HideNSeek
+25.0
+26
+Pears Soap
+40.0
+23
+Oreo
+10.0
+40
